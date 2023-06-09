@@ -65,7 +65,7 @@ Scaffold MinDelay 0
 Scaffold MaxDelay 20
 Scaffold PlaceableDelay false
 Scaffold SpeedModifier 1.0
-Scaffold Timer 1
+Scaffold Timer 0.9
 Scaffold AutoBlock true
 Scaffold StayAutoBlock false
 Scaffold Swing false
