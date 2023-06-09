@@ -6,6 +6,6 @@ killAura MinCPS 1
 cheststealer mindelay 140
 cheststealer maxdelay 160
 cheststealer chesttitle false
-hitbox size 0.00
+hitbox size 2.00
 
 hitbox toggle off
